@@ -1,0 +1,114 @@
+body{
+    font-family: italic;
+background-color: white;
+}
+.habiba{
+background-color: rgb(232, 220, 223);
+border: solid;
+border-color:#482929;
+text-align: left;
+font-style: italic;
+border-radius: 80px;
+border-width: 5px;
+text-align: center;
+display:flex;
+justify-content: space-between;
+padding: 5px;
+}
+.habiba a{
+    color: rgb(176, 106, 112);
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.br{
+    text-align: left;
+    padding: 7px;
+    font-size: 30px;
+    color: rgb(176, 106, 112);
+}
+.df{
+display:flex;
+justify-content: space-between;
+}
+p{
+color:#482929;
+font-size: 2em;
+text-align:center ;
+font-style: italic;
+margin-bottom: 7px;
+}
+form {
+    color:rgb(176, 106, 112);
+    text-align: center ;
+    font-size: 15px;
+    font-style: italic;
+    display:inline-block;
+    padding:7px;
+    margin-top: 45px;
+    border-bottom: 40px ;
+    border:solid ;
+    border-radius: 70px;
+    border-color:#482929;
+    border-width: 5px;
+    background-color:  rgb(240, 227, 230);
+    width: 230px;
+} 
+#two{
+    color: rgb(176, 106, 112);
+    font-size: 45px;
+}
+.card{
+width: 200px;
+align-items:center;
+}
+.card img{
+ width: 150%;
+ height:auto;
+}
+.cont{
+    display:flex;
+    align-items: center;
+    gap: 200px;
+    justify-content:center;
+    margin: 10px;
+}
+#d{
+    font-size:x-large larger;
+}
+.b{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 3px;
+    width: 130px;
+}
+.h{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 3px;
+    width: 130px;
+}
+.k{
+    border-radius: 20px;
+    border: 1px solid;
+    padding: 3px;
+    width: 130px;
+}
+.f{
+    border-radius: 20px;
+border: 1px solid;
+padding: 3px;
+width: 130px;
+}
+.w{
+    width: 80px;
+    font-size: 20px;
+    border-radius: 200px;
+    border: solid;
+    color: rgb(165, 175, 212);
+    border-color:   rgb(232, 220, 223);
+    background-color: rgb(248, 246, 247);
+}
+.ss{
+align-items: center;
+}

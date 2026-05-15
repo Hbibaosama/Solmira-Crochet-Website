@@ -1,0 +1,93 @@
+body{ 
+font-style: italic;
+}
+.habiba{
+background-color: rgb(232, 220, 223);
+border: solid;
+border-color:#482929;
+text-align: left;
+font-style: italic;
+border-radius: 80px;
+border-width: 5px;
+text-align: center;
+display:flex;
+justify-content: space-between;
+padding:5px ;
+}
+.habiba a{
+    color: rgb(176, 106, 112);
+    padding: 15px;
+    font-size:20px;
+    text-decoration: none;
+}
+.br{
+    text-align: left;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(176, 106, 112);
+}
+.df{
+display:flex;
+justify-content: space-between;
+}
+.dd{
+    margin: 50px;
+    padding: 30px;
+}
+    .e{
+ font-size: 50px;
+    text-align: left;
+    margin: 20px;
+    padding:10px;
+    color: #482929;
+    }
+.ee{font-size: 30px;
+    text-align: left;
+    margin: 20px;
+    padding:10px;
+    color: #482929;}
+.qq{
+    font-size: 30px;
+    text-align: left;
+    color: #482929;
+    text-decoration: none;
+}
+.eee{
+font-size: 20px;
+    text-align: left;
+    margin: 20px;
+    padding:15px;
+    color: #482929;
+    border-radius:  100px; 
+    border: solid;
+    border-width: 3px;
+}
+.yy{
+    font-size: 40px;
+    margin: 20px;
+    padding:10px;
+    color: #482929;
+    text-align: center;
+}
+.rr{
+    padding: 8px;
+    margin: 5px;
+    border-radius: 80px;
+    background-color: #b1c4e9;
+    font-size: 15px;
+    border: solid;
+    width:200px ;
+    height: 50px;
+    color:  rgb(176, 106, 112);
+    border-color:   rgb(232, 220, 223);
+    background-color: rgb(248, 246, 247);
+}
+.w{
+    width: 100px;
+    border-radius: 80px;
+    border: solid;
+    border-width: 2px;
+    color: rgb(165, 175, 212);
+    border-color: #482929;
+    background-color: rgb(248, 246, 247); 
+}
